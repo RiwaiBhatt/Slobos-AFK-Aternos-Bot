@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ImNoOne",
+    "username": "ImJustSoLonely",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftforlife67.aternos.me",
-    "port": 18125,
+    "ip": "freeind1.veltrionhost.com",
+    "port": 25580,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -32,6 +32,7 @@
       "repeat-delay": 540,
       "messages": [
         "Eat Shit"
+        "I'm Better"
       ]
     },
     "chat-log": true,
