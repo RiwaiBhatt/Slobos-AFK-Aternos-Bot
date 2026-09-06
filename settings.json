@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cynthia-pichunter.tun.ply.gg",
-    "port": 25565,
+    "ip": "leto-01.flarelax.com",
+    "port": 25666,
     "version": "1.21.1",
     "try-creative": false
   },
