@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Prayash_KoBuBuEater",
+    "username": "Prayash_IsMyBae",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "leto-01.flarelax.com",
-    "port": 25666,
+    "ip": "freeind1.veltrionhost.com:",
+    "port": 25763,
     "version": "1.21.1",
     "try-creative": false
   },
